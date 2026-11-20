@@ -1,0 +1,34 @@
+{
+ "region": "경기 성남시 수정구 복정동",
+ "nameEn": "Dong Seoul University",
+ "added": "2026-10-27T21:00",
+ "rank": 191,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "GACHON",
+   "campus": "가천대학교 글로벌캠퍼스",
+   "km": 0.7
+  },
+  {
+   "code": "EULJI",
+   "campus": "을지대학교 성남캠퍼스",
+   "km": 3.2
+  },
+  {
+   "code": "SHINGU",
+   "campus": "신구대학교",
+   "km": 3.7
+  },
+  {
+   "code": "KNSU",
+   "campus": "한국체육대학교",
+   "km": 6.7
+  },
+  {
+   "code": "KONKUK",
+   "campus": "건국대학교 서울캠퍼스",
+   "km": 10.3
+  }
+ ]
+}
